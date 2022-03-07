@@ -6,3 +6,23 @@
     background-color: aquamarine; border: 2px solid black;
 }
 
+.arrange-pic{
+    width: fit-content;
+    margin:0 auto;   
+}
+.list  {
+    list-style: none;
+    padding-left: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px, #dfdfdf;
+}
+h3{
+            
+    padding: 18px;
+    margin-bottom: 0px;
+    margin-top: 40px;
+    color:white;
+    border-radius: 6px;
+    background:linear-gradient(black, blue, transparent)
+  }
